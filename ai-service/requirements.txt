@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai-whisper
+transformers
+torch
+python-multipart
+pymongo
+python-dotenv
+dateparser
